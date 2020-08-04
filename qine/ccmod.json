@@ -7,11 +7,11 @@
   "description": {
     "en_US": "Adds the character Qine as a party member and PvP duel."
   },
-  "homepage": "https://github.com/sgrunt/qine",
+  "plugin": "plugin.js",
   "prestart": "mod.js",
   "dependencies": {
-    "ccloader": "^2.14.1",
-    "hardcoded-config-injector": "^0.1.0",
-    "extendable-severed-heads": "^1.0.0"
-  }
+    "cc-custom-character-toolkit": "1.x.x",
+    "utility-resource-organizer": "1.x.x"
+  },
+  "homepage": "https://github.com/sgrunt/qine"
 }
