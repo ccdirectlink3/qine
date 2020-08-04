@@ -12,7 +12,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "ANGRY"
         }
       }
@@ -36,7 +36,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "HAPPY"
         }
       }
@@ -61,7 +61,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "GRIN"
         }
       }
@@ -86,7 +86,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "SMUG"
         }
       }
@@ -111,7 +111,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "SUSPICIOUS"
         }
       }
@@ -142,7 +142,7 @@
         "clearSide": false,
         "type": "ADD_MSG_PERSON",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "DEFAULT"
         }
       },
@@ -163,7 +163,7 @@
         "autoContinue": false,
         "type": "SHOW_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "DEFAULT"
         }
       },
@@ -347,7 +347,7 @@
         "clearSide": false,
         "type": "ADD_MSG_PERSON",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "DEFAULT"
         }
       },
@@ -368,7 +368,7 @@
         "autoContinue": false,
         "type": "SHOW_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "SMUG"
         }
       },
@@ -401,7 +401,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "GRIN"
         }
       }
@@ -433,7 +433,7 @@
         "clearSide": false,
         "type": "ADD_MSG_PERSON",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "DEFAULT"
         }
       },
@@ -454,7 +454,7 @@
         "autoContinue": false,
         "type": "SHOW_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "SMUG"
         }
       },
@@ -487,7 +487,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "ANGRY"
         }
       }
@@ -511,7 +511,7 @@
         },
         "type": "SHOW_SIDE_MSG",
         "person": {
-          "person": "mod.qine",
+          "person": "qine",
           "expression": "SMUG"
         }
       }
